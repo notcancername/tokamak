@@ -3,8 +3,8 @@
     .version = "2.0.0",
     .dependencies = .{
         .httpz = .{
-            .url = "git+https://github.com/karlseguin/http.zig?ref=master#6e45041ef1e0ed8d3e36e15ccb459a3392571f7f",
-            .hash = "1220c47311099ba5705d906d11927bc222e9562830bcc32b6d638e10124371f4eeb6",
+            .url = "git+https://github.com/karlseguin/http.zig#461ed22a82294456f895debe7e83f515aba48f8c",
+            .hash = "1220bc8c725958787f24c69f011cd68455afd4eb777940b59872b03fbe0afb17a0c1",
         },
     },
     .paths = .{
